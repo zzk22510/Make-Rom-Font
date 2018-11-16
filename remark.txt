@@ -1,0 +1,2 @@
+使用python的串口通信功能把字库传到Flash？
+pySerial
