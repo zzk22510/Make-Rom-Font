@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+xxxxxx
 The format of font.bin: [File Header][Glyphs Table][Glyphs Data]
 File Header: 	BF [2 bytes]
 				VersionNumber [1 byte]
